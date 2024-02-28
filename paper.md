@@ -21,3 +21,6 @@ which are diffraction based.
 
 Synchrotron x-ray diffraction is also used to measure the residual stress.
 
+#Simulations
+The residual stress produced from the applied load on the U flexure 
+is calculated using FEM simulations.
