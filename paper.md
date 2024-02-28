@@ -4,7 +4,7 @@ Measurement of residual stress in benchmark samples
 
 # Author
 Gowtham N H, UoM
-
+M Roy, UoM	
 # Introduction
 
 Measurement of residual stress in benchmark samples
