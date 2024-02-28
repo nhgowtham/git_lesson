@@ -24,3 +24,6 @@ The residual stress produced from the applied load on the U flexure
 is calculated using FEM simulations.
 asfasdfasdf
 testing revert
+
+#Figures
+
