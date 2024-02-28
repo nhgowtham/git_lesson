@@ -1,11 +1,11 @@
-#README.md
+# README.md
 
 Measurement of residual stress in benchmark samples
 
-#Author
+# Author
 Gowtham N H
 
-#Introduction
+# Introduction
 
 Measurement of residual stress in benchmark samples
 
@@ -19,12 +19,16 @@ the measurement technique.
 Also, the aim is for industry to adopt the residual stress measurement 
 which are diffraction based.
 
-#Simulations
+# Simulations
 The residual stress produced from the applied load on the U flexure 
 is calculated using FEM simulations.
 asfasdfasdf
 testing revert
 
-#Figures
+# Figures
 
-#Conclusions
+# Results
+The residual stresses from neutron diffraction and SXRD were statistically close
+enough
+
+# Conclusions
