@@ -1,6 +1,6 @@
 #README.md
 
-Residual Stress 
+Residual Stress measurement of easi-stress benchmark sample
 
 #Author
 Gowtham N H
