@@ -3,7 +3,7 @@
 Measurement of residual stress in benchmark samples
 
 # Author
-Gowtham N H
+Gowtham N H, UoM
 
 # Introduction
 
