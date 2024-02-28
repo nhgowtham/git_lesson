@@ -18,3 +18,6 @@ the measurement technique.
 
 Also, the aim is for industry to adopt the residual stress measurement 
 which are diffraction based.
+
+Synchrotron x-ray diffraction is also used to measure the residual stress.
+
