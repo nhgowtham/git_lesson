@@ -26,7 +26,7 @@ asfasdfasdf
 testing revert
 
 # Figures
-
+Add figures to the draft
 # Results
 The residual stresses from neutron diffraction and SXRD were statistically close
 enough
