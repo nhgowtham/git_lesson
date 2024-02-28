@@ -1,6 +1,6 @@
 #README.md
 
-Residual Stress measurement of easi-stress benchmark sample
+Measurement of residual stress in benchmark samples
 
 #Author
 Gowtham N H
@@ -18,8 +18,6 @@ the measurement technique.
 
 Also, the aim is for industry to adopt the residual stress measurement 
 which are diffraction based.
-
-Synchrotron x-ray diffraction is also used to measure the residual stress.
 
 #Simulations
 The residual stress produced from the applied load on the U flexure 
