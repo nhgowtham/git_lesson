@@ -32,5 +32,5 @@ The residual stresses from neutron diffraction and SXRD were statistically close
 enough
 Blah novel results blah
 # Conclusions
-
+Add pointwise conclusions
 # Figures
