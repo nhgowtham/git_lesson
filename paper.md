@@ -9,5 +9,5 @@ Gowtham N H
 
 Measurement of residual stress in benchmark samples
 
-
+Neutron diffraction is used to measure the residual stress
 
